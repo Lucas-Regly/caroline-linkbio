@@ -93,6 +93,7 @@ h2 {
     font-size: 12px;
     transform: scale(0);
     opacity: 0;
+  animation: ;
     animation: scaleUp 0.5s forwards;
 }
 
